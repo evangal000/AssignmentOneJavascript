@@ -1,0 +1,11 @@
+
+This exercise is to demonstrate the relationship in languages between Javascript and Java.
+
+
+For each problem, I want to see the requirements for rewriting said methods in Java to Javascript.
+
+For each Program, I will write a YES or NO to Indicate if it had to be refactored.
+
+If NO, I will provide a score of 1-5 difficulty to and give a description on what
+was changed.
+
